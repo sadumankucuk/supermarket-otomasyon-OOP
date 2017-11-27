@@ -4,7 +4,6 @@ Bir süpermarketin ürün satışında kullanılmak için yapılmış bir progra
 Sisteme giren kasiyer satış işlemleri kısmında müşterinin aldığı ürünleri seçer ve sepete ekler. Sepet kısmında toplam tutar hesaplanır. 
 Sistem müşteriye Nakit ve Kredi olmak üzere iki tip ödeme seçeneği sunar.<br> <br>
 Sistemin dükkan işlemleri kısmında Ürün Kataloğu, Dükkana Ürün Ekleme, Ürün Güncelleme ve Hesap Defteri kısmında Stoktaki Ürün Sayısı,Toplam Satış
-Tutarı görüntüleme gibi işlemler yapılabilir.
-
-@FatmaKaya
-@merveyapnaz
+Tutarı görüntüleme gibi işlemler yapılabilir.<br> <br>
+[@FatmaKaya](https://github.com/FatmaKaya) 
+[@merveyapnaz](https://github.com/merveyapnaz) 
